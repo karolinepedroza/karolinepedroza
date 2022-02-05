@@ -1,5 +1,4 @@
 Olá! Sou a Karoline Pedroza:)
-Tenho 26 anos e sou de Belo 
 
  📘 Atualmente estou estudando HTML, CSS e JS 	
 	
