@@ -1,8 +1,8 @@
 Olá! Sou a Karoline Pedroza:)
 
- 📘 Atualmente estou estudando HTML, CSS, JS & RUBY <3	
+ 📘 Atualmente estou estudando HTML, CSS, JS & JAVA <3	
 	
-💻 Cursei Análise e Desenvolvimento de Sistemas
+💻 Cursando Análise e Desenvolvimento de Sistemas
 
 😃 Pronomes: ELA/DELA
  
