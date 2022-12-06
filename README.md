@@ -1,6 +1,6 @@
 Olá! Sou a Karoline Pedroza:)
 
- 📘 Atualmente estou estudando HTML, CSS, JS & JAVA <3	
+ 📘 Atualmente estou estudando HTML, CSS & JS  <3	
 	
 💻 Cursando Análise e Desenvolvimento de Sistemas
 
